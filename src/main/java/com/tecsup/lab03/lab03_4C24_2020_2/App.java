@@ -8,6 +8,11 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "HOLA CLASE !!" );
+        System.out.println("GRUPO 6A");
+        System.out.println("INTEGRANTES:");
+        System.out.println("Cardenas Daniel");
+        System.out.println("Brayan Blas");
+        System.out.println("Sebastian Schambaher");
     }
 }
